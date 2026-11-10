@@ -1,10 +1,4 @@
-# Hallo, ich bin @chenbinghan666
-
 [简体中文](https://github.com/chenbinghan666/chenbinghan666/blob/main/README.md) · [English](https://github.com/chenbinghan666/chenbinghan666/blob/main/docs/locales/README.en.md) · [日本語](https://github.com/chenbinghan666/chenbinghan666/blob/main/docs/locales/README.ja.md) · **Deutsch** · [Français](https://github.com/chenbinghan666/chenbinghan666/blob/main/docs/locales/README.fr.md) · [Español](https://github.com/chenbinghan666/chenbinghan666/blob/main/docs/locales/README.es.md) · [Português](https://github.com/chenbinghan666/chenbinghan666/blob/main/docs/locales/README.pt.md)
-
-Ich entwickle kleine Werkzeuge für den Alltag und Forschungsprototypen, mit denen sich Versuchsergebnisse genauer untersuchen lassen. Hier findest du einen Desktop-Kalender zum Download, einen Bericht zur Roboterevaluation und den Quellcode der Projekte.
-
-![Desktop & Automatisierung · Roboterevaluation · KI & Literatur · Quantitative Simulation](https://raw.githubusercontent.com/chenbinghan666/chenbinghan666/main/docs/images/projects-de.svg)
 
 ## Ausgewählte Projekte
 
@@ -27,6 +21,8 @@ Python · CALVIN · MCIL · [Versuchsbericht lesen](https://github.com/chenbingh
 <a href="https://github.com/chenbinghan666/calvin-failure-analysis/blob/main/docs/locales/README.de.md"><img width="415" alt="CALVIN Failure Analysis" src="https://raw.githubusercontent.com/chenbinghan666/calvin-failure-analysis/main/figures/process_level_results.png"></a>
 
 </details>
+
+![Desktop & Automatisierung · Roboterevaluation · KI & Literatur · Quantitative Simulation](https://raw.githubusercontent.com/chenbinghan666/chenbinghan666/main/docs/images/projects-de.svg)
 
 ## Windows und Automatisierung
 

@@ -1,10 +1,4 @@
-# こんにちは、@chenbinghan666 です
-
 [简体中文](https://github.com/chenbinghan666/chenbinghan666/blob/main/README.md) · [English](https://github.com/chenbinghan666/chenbinghan666/blob/main/docs/locales/README.en.md) · **日本語** · [Deutsch](https://github.com/chenbinghan666/chenbinghan666/blob/main/docs/locales/README.de.md) · [Français](https://github.com/chenbinghan666/chenbinghan666/blob/main/docs/locales/README.fr.md) · [Español](https://github.com/chenbinghan666/chenbinghan666/blob/main/docs/locales/README.es.md) · [Português](https://github.com/chenbinghan666/chenbinghan666/blob/main/docs/locales/README.pt.md)
-
-日々の作業に使える小さなツールと、実験結果を詳しく調べるための研究プロトタイプを作っています。デスクトップカレンダーのダウンロード、ロボットの評価レポート、各プロジェクトのソースコードをご覧いただけます。
-
-![デスクトップと自動化 · ロボット評価 · AI と文献 · クオンツシミュレーション](https://raw.githubusercontent.com/chenbinghan666/chenbinghan666/main/docs/images/projects-ja.svg)
 
 ## 主なプロジェクト
 
@@ -27,6 +21,8 @@ Python · CALVIN · MCIL · [実験レポートを読む](https://github.com/che
 <a href="https://github.com/chenbinghan666/calvin-failure-analysis/blob/main/docs/locales/README.ja.md"><img width="415" alt="CALVIN Failure Analysis" src="https://raw.githubusercontent.com/chenbinghan666/calvin-failure-analysis/main/figures/process_level_results.png"></a>
 
 </details>
+
+![デスクトップと自動化 · ロボット評価 · AI と文献 · クオンツシミュレーション](https://raw.githubusercontent.com/chenbinghan666/chenbinghan666/main/docs/images/projects-ja.svg)
 
 ## Windows と自動化
 
