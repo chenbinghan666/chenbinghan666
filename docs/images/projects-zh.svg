@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" role="img" aria-label="代表作品">
+<rect width="900" height="160" rx="20" fill="#101b2d"/>
+<path d="M36 41H864" stroke="#36516a" stroke-width="2"/>
+<rect x="20" y="54" width="204" height="83" rx="12" fill="#182a41"/><circle cx="37" cy="41" r="5" fill="#72e2b0"/><text x="35" y="87" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#e8f2ff">桌面与自动化</text><text x="35" y="116" font-family="system-ui, sans-serif" font-size="12" fill="#a8bdd6">WPF · OpenCV · Telegram</text>
+<rect x="239" y="54" width="204" height="83" rx="12" fill="#182a41"/><circle cx="256" cy="41" r="5" fill="#80b4ff"/><text x="254" y="87" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#e8f2ff">机器人评测</text><text x="254" y="116" font-family="system-ui, sans-serif" font-size="12" fill="#a8bdd6">CALVIN · MCIL</text>
+<rect x="458" y="54" width="204" height="83" rx="12" fill="#182a41"/><circle cx="475" cy="41" r="5" fill="#d0a5ff"/><text x="473" y="87" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#e8f2ff">AI 与文献</text><text x="473" y="116" font-family="system-ui, sans-serif" font-size="12" fill="#a8bdd6">PubMed · Zhipu AI</text>
+<rect x="677" y="54" width="204" height="83" rx="12" fill="#182a41"/><circle cx="694" cy="41" r="5" fill="#f4ce81"/><text x="692" y="87" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#e8f2ff">量化模拟</text><text x="692" y="116" font-family="system-ui, sans-serif" font-size="12" fill="#a8bdd6">Freqtrade · FreqAI</text>
+</svg>
