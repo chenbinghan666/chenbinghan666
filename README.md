@@ -6,7 +6,7 @@
 
 Windows 桌面日历挂件。通过 iCal 只读同步 Google 日历，可切换日、周、月和列表视图。
 
-C# · WPF · Google Calendar · [下载桌面日历](https://github.com/chenbinghan666/desktop-agenda/releases/latest)
+C# · WPF · Google Calendar · [下载桌面日历](https://github.com/chenbinghan666/desktop-agenda/releases/latest) · [演示](https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/images/desktop-agenda-demo.gif)
 
 ### [CALVIN Failure Analysis](https://github.com/chenbinghan666/calvin-failure-analysis/blob/main/README.md)
 
@@ -17,7 +17,7 @@ Python · CALVIN · MCIL · [查看实验报告](https://github.com/chenbinghan6
 <details>
 <summary>展开截图与实验图表</summary>
 
-<a href="https://github.com/chenbinghan666/desktop-agenda/blob/main/README.md"><img width="415" alt="Desktop Agenda" src="https://raw.githubusercontent.com/chenbinghan666/desktop-agenda/main/docs/images/week-dark.png"></a>
+<a href="https://github.com/chenbinghan666/desktop-agenda/blob/main/README.md"><img width="415" alt="Desktop Agenda" src="https://raw.githubusercontent.com/chenbinghan666/desktop-agenda/main/docs/images/desktop-agenda-demo.gif"></a>
 <a href="https://github.com/chenbinghan666/calvin-failure-analysis/blob/main/README.md"><img width="415" alt="CALVIN Failure Analysis" src="https://raw.githubusercontent.com/chenbinghan666/calvin-failure-analysis/main/figures/process_level_results.png"></a>
 
 </details>
@@ -26,7 +26,8 @@ Python · CALVIN · MCIL · [查看实验报告](https://github.com/chenbinghan6
 
 ## Windows 与自动化
 
-- [**PUBG AFK Helper**](https://github.com/chenbinghan666/pubg-afk-helper/blob/main/README.md) · 用 OpenCV 识别 PUBG 界面，带状态浮窗、识别预览和离线测试。
+- [**PBZ Map Markers Installer**](https://github.com/chenbinghan666/pbz-map-markers-installer) · Windows 离线地图标记安装器，包含安装前校验、备份和卸载还原。原 Mod 由 PaulGao 开发。 [下载](https://github.com/chenbinghan666/pbz-map-markers-installer/releases/latest)
+- [**PUBG AFK Helper**](https://github.com/chenbinghan666/pubg-afk-helper/blob/main/README.md) · 用 OpenCV 识别 PUBG 界面，带状态浮窗、识别预览和离线测试。 · [演示](https://github.com/chenbinghan666/pubg-afk-helper/blob/main/docs/images/project-demo.gif)
 - [**Daily Mail Report Bot**](https://github.com/chenbinghan666/mail_digest_bot/blob/main/README.md) · 我第一个公开的 Python 项目。按发件人汇总示例邮件，再把日报发到 Telegram。
 
 ## AI 与文献检索

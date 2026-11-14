@@ -6,7 +6,7 @@
 
 Affiche Google Agenda sur le bureau Windows. Les vues jour, semaine, mois et liste facilitent le suivi des cours, réunions et échéances. La synchronisation via iCal se fait en lecture seule.
 
-C# · WPF · Google Calendar · [Télécharger le calendrier](https://github.com/chenbinghan666/desktop-agenda/releases/latest)
+C# · WPF · Google Calendar · [Télécharger le calendrier](https://github.com/chenbinghan666/desktop-agenda/releases/latest) · [Démo](https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/images/desktop-agenda-demo.gif)
 
 ### [CALVIN Failure Analysis](https://github.com/chenbinghan666/calvin-failure-analysis/blob/main/docs/locales/README.fr.md)
 
@@ -17,7 +17,7 @@ Python · CALVIN · MCIL · [Lire le rapport expérimental](https://github.com/c
 <details>
 <summary>Afficher la capture et le graphique</summary>
 
-<a href="https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.fr.md"><img width="415" alt="Desktop Agenda" src="https://raw.githubusercontent.com/chenbinghan666/desktop-agenda/main/docs/images/week-dark.png"></a>
+<a href="https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.fr.md"><img width="415" alt="Desktop Agenda" src="https://raw.githubusercontent.com/chenbinghan666/desktop-agenda/main/docs/images/desktop-agenda-demo.gif"></a>
 <a href="https://github.com/chenbinghan666/calvin-failure-analysis/blob/main/docs/locales/README.fr.md"><img width="415" alt="CALVIN Failure Analysis" src="https://raw.githubusercontent.com/chenbinghan666/calvin-failure-analysis/main/figures/process_level_results.png"></a>
 
 </details>
@@ -26,7 +26,8 @@ Python · CALVIN · MCIL · [Lire le rapport expérimental](https://github.com/c
 
 ## Windows et automatisation
 
-- [**PUBG AFK Helper**](https://github.com/chenbinghan666/pubg-afk-helper/blob/main/docs/locales/README.fr.md) · Utilise OpenCV pour reconnaître les écrans de PUBG, afficher l’état de la détection et exécuter des séquences configurables sous Windows. Comprend un aperçu limité à la détection et des tests de régression hors ligne.
+- [**PBZ Map Markers Installer**](https://github.com/chenbinghan666/pbz-map-markers-installer/blob/main/docs/README.fr.md) · Installateur hors ligne de marqueurs de carte pour Windows, avec vérification, sauvegarde et restauration. Mod original par PaulGao. [Télécharger](https://github.com/chenbinghan666/pbz-map-markers-installer/releases/latest)
+- [**PUBG AFK Helper**](https://github.com/chenbinghan666/pubg-afk-helper/blob/main/docs/locales/README.fr.md) · Utilise OpenCV pour reconnaître les écrans de PUBG, afficher l’état de la détection et exécuter des séquences configurables sous Windows. Comprend un aperçu limité à la détection et des tests de régression hors ligne. · [Démo](https://github.com/chenbinghan666/pubg-afk-helper/blob/main/docs/images/project-demo.gif)
 - [**Daily Mail Report Bot**](https://github.com/chenbinghan666/mail_digest_bot/blob/main/docs/locales/README.fr.md) · Regroupe des e-mails d’exemple par expéditeur et envoie un rapport quotidien sur Telegram. Mon premier projet Python public sépare la génération du rapport et l’envoi du message.
 
 ## IA et recherche bibliographique

@@ -6,7 +6,7 @@
 
 Mostra o Google Agenda na área de trabalho do Windows. As visualizações de dia, semana, mês e lista ajudam a acompanhar aulas, reuniões e prazos. A sincronização por iCal é somente leitura.
 
-C# · WPF · Google Calendar · [Baixar o calendário](https://github.com/chenbinghan666/desktop-agenda/releases/latest)
+C# · WPF · Google Calendar · [Baixar o calendário](https://github.com/chenbinghan666/desktop-agenda/releases/latest) · [Demonstração](https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/images/desktop-agenda-demo.gif)
 
 ### [CALVIN Failure Analysis](https://github.com/chenbinghan666/calvin-failure-analysis/blob/main/docs/locales/README.pt.md)
 
@@ -17,7 +17,7 @@ Python · CALVIN · MCIL · [Ler o relatório experimental](https://github.com/c
 <details>
 <summary>Ver a captura e o gráfico</summary>
 
-<a href="https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.pt.md"><img width="415" alt="Desktop Agenda" src="https://raw.githubusercontent.com/chenbinghan666/desktop-agenda/main/docs/images/week-dark.png"></a>
+<a href="https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.pt.md"><img width="415" alt="Desktop Agenda" src="https://raw.githubusercontent.com/chenbinghan666/desktop-agenda/main/docs/images/desktop-agenda-demo.gif"></a>
 <a href="https://github.com/chenbinghan666/calvin-failure-analysis/blob/main/docs/locales/README.pt.md"><img width="415" alt="CALVIN Failure Analysis" src="https://raw.githubusercontent.com/chenbinghan666/calvin-failure-analysis/main/figures/process_level_results.png"></a>
 
 </details>
@@ -26,7 +26,8 @@ Python · CALVIN · MCIL · [Ler o relatório experimental](https://github.com/c
 
 ## Windows e automação
 
-- [**PUBG AFK Helper**](https://github.com/chenbinghan666/pubg-afk-helper/blob/main/docs/locales/README.pt.md) · Usa OpenCV para reconhecer telas de PUBG, exibir o estado da detecção e executar fluxos configuráveis no Windows. Inclui prévia apenas de detecção e testes de regressão offline.
+- [**PBZ Map Markers Installer**](https://github.com/chenbinghan666/pbz-map-markers-installer/blob/main/docs/README.pt-BR.md) · Instalador offline de marcadores de mapa para Windows, com verificação, backup e restauração. Mod original de PaulGao. [Baixar](https://github.com/chenbinghan666/pbz-map-markers-installer/releases/latest)
+- [**PUBG AFK Helper**](https://github.com/chenbinghan666/pubg-afk-helper/blob/main/docs/locales/README.pt.md) · Usa OpenCV para reconhecer telas de PUBG, exibir o estado da detecção e executar fluxos configuráveis no Windows. Inclui prévia apenas de detecção e testes de regressão offline. · [Demonstração](https://github.com/chenbinghan666/pubg-afk-helper/blob/main/docs/images/project-demo.gif)
 - [**Daily Mail Report Bot**](https://github.com/chenbinghan666/mail_digest_bot/blob/main/docs/locales/README.pt.md) · Agrupa e-mails de exemplo por remetente e envia um relatório diário ao Telegram. Meu primeiro projeto público em Python separa a geração do relatório do envio das mensagens.
 
 ## IA e busca bibliográfica

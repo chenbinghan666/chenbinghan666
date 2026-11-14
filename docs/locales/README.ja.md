@@ -6,7 +6,7 @@
 
 Google カレンダーを Windows のデスクトップに表示します。日・週・月・一覧の表示を切り替えて、授業や会議、締め切りを確認できます。iCal による読み取り専用の同期に対応しています。
 
-C# · WPF · Google Calendar · [カレンダーをダウンロード](https://github.com/chenbinghan666/desktop-agenda/releases/latest)
+C# · WPF · Google Calendar · [カレンダーをダウンロード](https://github.com/chenbinghan666/desktop-agenda/releases/latest) · [デモ](https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/images/desktop-agenda-demo.gif)
 
 ### [CALVIN Failure Analysis](https://github.com/chenbinghan666/calvin-failure-analysis/blob/main/docs/locales/README.ja.md)
 
@@ -17,7 +17,7 @@ Python · CALVIN · MCIL · [実験レポートを読む](https://github.com/che
 <details>
 <summary>スクリーンショットと実験結果を表示</summary>
 
-<a href="https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.ja.md"><img width="415" alt="Desktop Agenda" src="https://raw.githubusercontent.com/chenbinghan666/desktop-agenda/main/docs/images/week-dark.png"></a>
+<a href="https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.ja.md"><img width="415" alt="Desktop Agenda" src="https://raw.githubusercontent.com/chenbinghan666/desktop-agenda/main/docs/images/desktop-agenda-demo.gif"></a>
 <a href="https://github.com/chenbinghan666/calvin-failure-analysis/blob/main/docs/locales/README.ja.md"><img width="415" alt="CALVIN Failure Analysis" src="https://raw.githubusercontent.com/chenbinghan666/calvin-failure-analysis/main/figures/process_level_results.png"></a>
 
 </details>
@@ -26,7 +26,8 @@ Python · CALVIN · MCIL · [実験レポートを読む](https://github.com/che
 
 ## Windows と自動化
 
-- [**PUBG AFK Helper**](https://github.com/chenbinghan666/pubg-afk-helper/blob/main/docs/locales/README.ja.md) · OpenCV で PUBG の画面を認識し、認識状況を表示して、Windows 上で設定可能な処理を実行します。認識専用のプレビューとオフライン回帰テストを備えています。
+- [**PBZ Map Markers Installer**](https://github.com/chenbinghan666/pbz-map-markers-installer/blob/main/docs/README.ja.md) · Windows 用のオフライン地図マーカーインストーラー。検証、バックアップ、復元に対応。元の Mod は PaulGao 作。 [ダウンロード](https://github.com/chenbinghan666/pbz-map-markers-installer/releases/latest)
+- [**PUBG AFK Helper**](https://github.com/chenbinghan666/pubg-afk-helper/blob/main/docs/locales/README.ja.md) · OpenCV で PUBG の画面を認識し、認識状況を表示して、Windows 上で設定可能な処理を実行します。認識専用のプレビューとオフライン回帰テストを備えています。 · [デモ](https://github.com/chenbinghan666/pubg-afk-helper/blob/main/docs/images/project-demo.gif)
 - [**Daily Mail Report Bot**](https://github.com/chenbinghan666/mail_digest_bot/blob/main/docs/locales/README.ja.md) · サンプルメールを送信者ごとに集計し、日次レポートを Telegram に送ります。初めて公開した Python プロジェクトで、集計と送信をそれぞれ独立したモジュールで確認できます。
 
 ## AI と文献検索
