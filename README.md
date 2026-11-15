@@ -2,6 +2,14 @@
 
 ## 代表作品
 
+### [Syllo](https://github.com/chenbinghan666/syllo)
+
+把 Moodle 的作业截止时间、通知、课件和成绩放到一个 Windows 桌面里。通过学校官方移动端接口只读同步，当前完整验证环境为 XMUM。
+
+JavaScript · Electron · Moodle · [下载 Windows 版](https://github.com/chenbinghan666/syllo/releases/latest) · [操作演示](https://github.com/chenbinghan666/syllo/blob/main/docs/images/syllo-demo.mp4)
+
+[![Syllo](https://raw.githubusercontent.com/chenbinghan666/syllo/main/docs/images/syllo-demo.gif)](https://github.com/chenbinghan666/syllo)
+
 ### [Desktop Agenda](https://github.com/chenbinghan666/desktop-agenda/blob/main/README.md)
 
 Windows 桌面日历挂件。通过 iCal 只读同步 Google 日历，可切换日、周、月和列表视图。

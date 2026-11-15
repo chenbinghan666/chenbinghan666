@@ -2,6 +2,14 @@
 
 ## Featured projects
 
+### [Syllo](https://github.com/chenbinghan666/syllo/blob/main/docs/locales/README.en.md)
+
+A Windows desktop for Moodle assignments, deadlines, notices, course materials and grades. Uses the official mobile API for read-only sync. Fully validated with XMUM.
+
+JavaScript · Electron · Moodle · [Download for Windows](https://github.com/chenbinghan666/syllo/releases/latest) · [Demo](https://github.com/chenbinghan666/syllo/blob/main/docs/images/syllo-demo.mp4)
+
+[![Syllo](https://raw.githubusercontent.com/chenbinghan666/syllo/main/docs/images/syllo-demo.gif)](https://github.com/chenbinghan666/syllo/blob/main/docs/locales/README.en.md)
+
 ### [Desktop Agenda](https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.en.md)
 
 Keep Google Calendar visible on your Windows desktop. Switch between day, week, month, and agenda views to check classes, meetings, and deadlines. Events sync read-only via iCal.

@@ -2,6 +2,14 @@
 
 ## Projetos em destaque
 
+### [Syllo](https://github.com/chenbinghan666/syllo/blob/main/docs/locales/README.en.md)
+
+Um aplicativo Windows para tarefas, prazos, avisos, materiais e notas do Moodle. Sincronização somente leitura pela API móvel oficial. Validado com XMUM.
+
+JavaScript · Electron · Moodle · [Baixar para Windows](https://github.com/chenbinghan666/syllo/releases/latest) · [Demonstração](https://github.com/chenbinghan666/syllo/blob/main/docs/images/syllo-demo.mp4)
+
+[![Syllo](https://raw.githubusercontent.com/chenbinghan666/syllo/main/docs/images/syllo-demo.gif)](https://github.com/chenbinghan666/syllo/blob/main/docs/locales/README.en.md)
+
 ### [Desktop Agenda](https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.pt.md)
 
 Mostra o Google Agenda na área de trabalho do Windows. As visualizações de dia, semana, mês e lista ajudam a acompanhar aulas, reuniões e prazos. A sincronização por iCal é somente leitura.

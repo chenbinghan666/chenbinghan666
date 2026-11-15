@@ -2,6 +2,14 @@
 
 ## 主なプロジェクト
 
+### [Syllo](https://github.com/chenbinghan666/syllo/blob/main/docs/locales/README.ja.md)
+
+Moodle の課題、締め切り、通知、教材、成績を Windows デスクトップにまとめます。公式モバイル API で読み取り専用同期。現在の検証環境は XMUM です。
+
+JavaScript · Electron · Moodle · [Windows 版をダウンロード](https://github.com/chenbinghan666/syllo/releases/latest) · [操作デモ](https://github.com/chenbinghan666/syllo/blob/main/docs/images/syllo-demo.mp4)
+
+[![Syllo](https://raw.githubusercontent.com/chenbinghan666/syllo/main/docs/images/syllo-demo.gif)](https://github.com/chenbinghan666/syllo/blob/main/docs/locales/README.ja.md)
+
 ### [Desktop Agenda](https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.ja.md)
 
 Google カレンダーを Windows のデスクトップに表示します。日・週・月・一覧の表示を切り替えて、授業や会議、締め切りを確認できます。iCal による読み取り専用の同期に対応しています。
